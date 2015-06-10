@@ -1,0 +1,2 @@
+# secondtestforclass
+cloning thru url
